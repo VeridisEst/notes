@@ -1,16 +1,8 @@
-# Notities
-
-How to
-
-## Install
-
-## How to use
-
-### .gitattributes
-
 /encrypted/* filter=crypt diff=crypt merge=crypt
-$nameOfFile filter=crypt diff=crypt merge=crypt
-
+# Text with a # in front will not be read by the computer
+#
+# $nameOfFile filter=crypt diff=crypt merge=crypt
+#
 # How to use:
 # The base format of a new line is
 # ' $nameOfFile filter=crypt diff=crypt merge=crypt '
@@ -33,13 +25,3 @@ $nameOfFile filter=crypt diff=crypt merge=crypt
 # This way clones will be aware of what is encrypted. Also it makes sure you don't accidentaly push an unencrypted file.
 #
 # MAKE SURE YOU DON'T ACCIDENTALY ENCRYPT THIS FILE! 
-
-## Edge cases
-
-## Good to know
-
-## Standards
-
-All instructions regarding permanent files like .gitattributes will also be in the file itself.
-
-

@@ -1,0 +1,25 @@
+#Notities RedTeam
+
+###Team en betrokkenen
+Jordi van den Breekel > TeamLead RedTeaming
+Ruben de Vries > RedTeamer en RedTeam project manager
+
+Edwin Haaring > CISO SSC-ICT ook betrokken
+
+###Scoping
+Scope: 
+1. DMS 
+	DigiDoc 
+	iBabs
+	Marjolein
+	Gemeenschappelijke netwerkschijven (SSC-ICT)
+2. Assumed breach
+	Probeer te springen
+3. Zonder breach
+	Probeer het nog steeds
+
+###Voorkeuren en mondelinge afspraken
+Verzoek aan KPMG om als ze iets voor elkaar krijgen daar CVSS Scores aan vast te hangen
+Antwoord: sowieso CVSS scores en een stuk geschreven 'effect op de organisatie' 
+
+
